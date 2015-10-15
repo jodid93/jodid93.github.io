@@ -1,0 +1,29 @@
+body{
+	/*background-color: rgba(23, 98, 161, 0.2);*/
+	background-color: rgb(230, 230, 230);
+	min-width: 320px;
+}
+
+
+header{
+	text-align: center;
+	margin-top: 5%;
+	margin-bottom: 2%;
+}
+
+.col-md-offset-1{
+	margin-left: 5%;
+}
+
+h3{
+	color:rgb(25, 101, 132);
+}
+
+.border{
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+	border:2px black solid;
+	color:white;
+	background-color:rgb(25, 101, 132);
+}
